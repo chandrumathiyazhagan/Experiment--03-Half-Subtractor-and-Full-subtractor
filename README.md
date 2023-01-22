@@ -66,7 +66,8 @@ HALF SUBTRACTOR:
 
 RTL realization:
 
-![image](https://user-images.githubusercontent.com/119393023/213900566-bec3ba60-a3f1-4ef7-aaec-04b0139b14d8.png)
+![image](https://user-images.githubusercontent.com/119393023/213900853-ffbc72ba-4b0d-45cc-bc94-955e22e23c8a.png)
+
 
 ## Timing diagram :
 
@@ -82,7 +83,8 @@ FULL SUBTRACTOR:
 
 RTL realization:
 
-![image](https://user-images.githubusercontent.com/119393023/213900654-9952d051-ee0e-4ee3-8f23-afa98f8762eb.png)
+![image](https://user-images.githubusercontent.com/119393023/213900871-38027531-9e63-43f4-b43e-964813dbc4eb.png)
+
 
 ## Timing diagram :
 
